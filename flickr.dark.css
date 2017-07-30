@@ -1,0 +1,144 @@
+body {
+  background-color: #202020;
+}
+.fluid .fluid-subnav,
+.html-feed-page-view .activity-card-attribution,
+.sub-photo-view,
+.sub-photo-view > .sub-photo-container,
+.sub-photo-comments-view .comments-form .comment-form-field textarea,
+.camera-table th,
+.camera-table tr:nth-child(2n+1),
+.stats-allphotos-view .stats-container .section,
+.stats-view .stats-container .section,
+.feed-page-view .activity-card div.activity-card-content,
+.fluid .droparound,
+.fluid .droparound .droparrow::after,
+.fluid table tr.is-locked:hover::before,
+.fluid table tr.show-fave:hover::before,
+.fluid table tr:hover,
+.fluid table tr:hover::after,
+.fluid table tr:hover::before,
+.result-card,
+.result-card .text-content,
+.result-card .button-content,
+body.new-footer #main,
+body.new-footer #Main,
+.preview-overlay-view,
+.html-feed-page-view .feed-card-menu-view {
+  background-color: #333333;
+}
+.featured-groups .recommended-groups .recommended-group {
+  background-color: #444444;
+}
+.fluid .droparound .droparrow::after {
+  box-shadow: 0 0 0 1px #333333, -1px -1px 4px rgba(0, 0, 0, .2);
+}
+.fluid .fluid-subnav .link.selected a,
+.fluid .fluid-subnav .link:hover a,
+.fluid .fluid-subnav .tool.selected a,
+.fluid .fluid-subnav .tool:hover a,
+.fluid .fluid-subnav .more-link,
+.fluid .fluid-subnav a,
+.fluid .fluid-subnav .more-link,
+.fluid .fluid-subnav a,
+.html-feed-page-view .activity-card-attribution .attribution-content .display-name a.username,
+.sub-photo-view,
+.sub-photo-view > .sub-photo-container,
+.sub-photo-comments-view .comments-form .comment-form-field textarea,
+.sub-photo-left-view > .attribution-view.photo-attribution > .attribution-info .owner-name,
+.sub-photo-title-desc-view > .title-desc-block > .meta-field.photo-title,
+h1,
+h2,
+h3,
+th,
+.numeric,
+.camera-table td,
+article.light,
+body,
+body.light,
+div.light,
+footer.light,
+header.light,
+main.light,
+p.light,
+section.light,
+.fluid table tr,
+.stats-allphotos-view .stats-container .half-misc .misc-account-stats-bottom-graph .linkbar,
+.stats-view .stats-container .half-misc .misc-account-stats-bottom-graph .linkbar,
+.feed-page-view .activity-card div.activity-card-content .activity-card-title p,
+article.light,
+body,
+body.light,
+div.light,
+footer.light,
+header.light,
+main.light,
+p.light,
+section.light,
+.fluid .droparound .body .content.menu a,
+.stats-allphotos-view .stats-container .account-info .account-info-bottom .sparklines .sparkline div span,
+.stats-view .stats-container .account-info .account-info-bottom .sparklines .sparkline div span,
+body.new-footer #main,
+body.new-footer #Main,
+#DiscussTopic .Said p,
+#DiscussTopic .Said h4,
+.html-feed-page-view .feed-card-menu-view {
+  color: #f0f0f0;
+}
+.FlickrMailMessage,
+.FlickrMailMessage tr,
+.FlickrMailMessage th,
+.FlickrMailMessage td,
+.FlickrMailMessage p,
+.FlickrMailMessage h2,
+.FlickrMailMessage h3 {
+  color: #f0f0f0 !important;
+}
+.sub-photo-view a,
+.sub-photo-right-view > .photo-charm-exif-scrappy-view .exif-charm-list > ul > div.exif-column-1 > li.c-charm-item-camera .exif-camera-name > a:hover,
+.sub-photo-right-view > .photo-charm-exif-scrappy-view .exif-charm-list > ul > div.exif-column-1 > li.c-charm-item-camera .exif-camera-name > a {
+  color: #218ecd;
+  /*#40adec;*/
+}
+.Highlight {
+  background-color: #218ecd;
+}
+.stats-allphotos-view .stats-container .section,
+.stats-view .stats-container .section {
+  box-shadow: 0 0 0 1px #666666;
+}
+.stats-allphotos-view .stats-container .half-misc .misc-account-stats-bottom-graph .linkbar,
+.stats-view .stats-container .half-misc .misc-account-stats-bottom-graph .linkbar {
+  fill: #444444;
+}
+.html-feed-page-view .feed-card-actions a.activity-card-action:hover svg {
+  color: #999999;
+}
+.camera-table th,
+.camera-table tr.top-x,
+.camera-table tr {
+  border-left: 1px solid transparent;
+  border-bottom: 1px solid #666;
+  text-shadow: none;
+}
+a:link {
+  text-decoration: none;
+  color: #4a99f9;
+}
+.fluid table tr {
+  border-bottom: 1px solid #444444;
+}
+.fluid table tr:first-child,
+.fluid table tr:last-child {
+  border-color: #444444;
+}
+.result-card .text-content::after {
+  background: none;
+}
+.result-card .button-content {
+  box-shadow: none;
+}
+body.new-footer #main,
+body.new-footer #Main {
+  padding: 50px;
+}
