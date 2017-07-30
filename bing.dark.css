@@ -1,0 +1,128 @@
+/* Custom */
+
+a:hover {
+    text-shadow: none !important;
+}
+::-moz-selection,
+::selection {
+    color: #007DAA !important;
+}
+.sa_tm strong,
+#sw_as .sa_as .sa_drw,
+#sw_as .sa_as li.pp_tile,
+#sw_as .sa_as .sa_tm strong,
+#sw_as .sa_as table {
+    color: #007DAA !important;
+}
+#b_results > .b_top .b_prominentFocusLabel,
+#b_results > .b_top .b_topTitle,
+#b_results > .b_top .b_focusTextExtraSmall,
+#b_results > .b_top .b_focusTextExtraSmall a,
+#b_results > .b_top .b_focusTextSmall,
+#b_results > .b_top .b_focusTextSmall a,
+#b_results > .b_top .b_focusTextMedium,
+#b_results > .b_top .b_focusTextMedium a,
+#b_results > .b_top .b_focusTextLarge,
+#b_results > .b_top .b_focusTextLarge a,
+.ctxt,
+.dc_mn,
+.dc_st,
+.b_top,
+.b_top .b_promoteText,
+#flyoutContent #header .title,
+#flyoutContent #credits .title,
+#flyoutContent .cardItem .title,
+#id_hbfo,
+.hbic_col,
+.hb_title_col,
+.hb_value_col,
+a#bep.openfo,
+#bepfo,
+#id_d,
+#id_scfo,
+.id_name,
+.b_searchbox,
+#sw_as .sa_as .sa_sg .sa_tm,
+#sw_as .sa_as .b_tHeader,
+#sw_as .sa_as .b_demoteText,
+#sw_as .sa_as .b_secondaryText,
+#sw_as .sa_as .b_attribution,
+#sw_as .sa_as .b_factrow,
+#sw_as .sa_as #sa_ul .b_focusLabel,
+#sw_as .sa_as .b_footnote,
+#sw_as .sa_as .b_ad .b_adlabel,
+#sw_as .sa_as .b_expando .b_subModule,
+#sw_as .sa_as .b_expando .b_suppModule,
+#sw_as .sa_as .b_algo .b_vList td,
+#sw_as .sa_as .b_expando .b_secondaryText,
+#sw_as .sa_as .b_expando .b_attribution,
+#sw_as .sa_as .b_expando .b_factrow,
+#sw_as .sa_as .b_expando .b_footnote,
+#sw_as .sa_as .ctxtb,
+#sw_as .sa_as .sa_rmvd {
+    color: #c0c0c0 !important;
+}
+#HBContent,
+#bepfo,
+#id_d,
+#HBContent {
+    border: 1px solid #212121 !important;
+}
+#b_results > li.b_ans.b_topborder,
+#b_context .b_entityTP {
+    border: 1px solid #333 !important;
+}
+.b_scopebar {
+    border-bottom: 1px solid #333 !important;
+}
+.b_searchboxForm {
+    border: 1px solid #444 !important;
+}
+.sa_as {
+    border-color: #444;
+}
+.b_footer,
+.b_ans.b_topborder .btm_sml a,
+#id_hbfo,
+.b_idOpen a#id_l,
+a#id_rh.openfo,
+a#bep.openfo,
+#bepfo,
+#id_d,
+#id_scfo,
+#b_context > li.b_ad,
+.b_searchboxForm,
+.sa_as,
+.b_searchbox,
+#miniheader table,
+#miniheader_data .sug {
+    background-color: #333 !important;
+}
+.b_ans.b_topborder .btm_sml a:hover {
+    background-color: #323232 !important;
+}
+.hb_section:visited,
+#sw_as li.pp_tile.sa_hv,
+#sw_as .sa_hv {
+    background-color: #272727 !important;
+}
+#flyoutContent #cards,
+.hb_section:active,
+.hb_section:hover {
+    background-color: #212121 !important;
+}
+#flyoutContent #cards .cardBody,
+#id_d a:hover,
+#miniheader .itm:hover {
+    background-color: #272727 !important;
+}
+#flyoutContent .earned {
+    color: #ffbf00 !important;
+}
+#flyoutContent #cards .title {
+    color: #ffbf00 !important;
+}
+#flyoutContent .cardItem .linkText,
+#miniheader .col a strong {
+    color: #516cf1;
+}
