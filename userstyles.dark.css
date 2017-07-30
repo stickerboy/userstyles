@@ -1,0 +1,17 @@
+#root, #nav-view, #navigation, #container, #footer, .navigation_link:hover, #notes_textarea, #notes_textarea, .see_more, .advanced_button, .css_button {
+    background-color: #333 !important;
+    color: #f0f0f0 !important;
+}
+.navigation_link:hover {
+    background-color: #444 !important;
+    color: #f0f0f0 !important;
+}
+.navigation_title, #title_div h1, #pages a, #pages a:active, #pages a:visited, div {
+    color: #f0f0f0 !important;
+}
+#pages a {
+    border-radius: 4px;
+}
+#pages a:hover, .div-arrow {
+ 	background-color: #3498db;   
+}
