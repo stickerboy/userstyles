@@ -1,0 +1,166 @@
+.editorial-content .multi-br {
+	   display: inline !important;
+}
+.editorial-content .multi-br br {
+    display: block !important
+}
+.editorial-content .multi-br br+br~br {
+    display: none !important
+}
+html.theme--dark::before,
+html::before {
+    background: none;
+}
+body {
+    color: #ececec;
+}
+.region,
+.h5--game-history > li:nth-child(2n),
+[class*="service-record-campaign--"] .table > .tr:nth-child(2n) {
+    background-color: #1C2227;
+}
+.region.light,
+nav[data-dropdown] > a,
+.table .light {
+    background-color: #15191D;
+}
+nav[data-dropdown] > a:hover {
+    color: #cccccc;
+}
+nav.open[data-dropdown] > ul {
+    right: 0;
+}
+nav[data-dropdown] > ul a:hover,
+nav[data-dropdown] > ul a.selected:hover,
+nav[data-dropdown] > ul button:hover,
+nav[data-dropdown] > ul button.selected:hover {
+    background-color: #1995d8;
+    color: #f0f0f0;
+}
+nav[data-dropdown] > ul,
+nav[data-dropdown] > ul a,
+nav[data-dropdown] > ul button {
+    color: #f0f0f0;
+    background-color: #495359;
+}
+.region.search-results,
+.region.area-forums--reported-posts,
+.light.region.region--userprofile,
+.region.region--userprofile-clan,
+.padded-some,
+.region.private-messages,
+.private-messages,
+[data-pagename="/UserProfile"] .region {
+    background-color: #1C2227;
+    color: #fefefe;
+}
+.footer {
+    background-color: #15191D;
+    color: #fefefe;
+}
+.footer .social--large,
+.region.region--userprofile.editable-module,
+.region.region--bottom-controls,
+#original-message,
+.theme--dark .footer,
+[data-pagename="/UserProfile"] .light.region,
+[data-pagename="/UserProfile/Notifications"] .region,
+.region.region--top-controls {
+    background-color: #15191D;
+    color: #fefefe;
+}
+.region.search-results a,
+.region.search-results button.edit-trigger,
+.private-messages .messages .message-row a {
+    color: #98d0f1;
+}
+.popup-container .popup-center-horz .popup-center-vert .popup-box,
+.tooltip-popup {
+    background-color: #1C2227;
+}
+.popup-container .popup-center-horz .popup-center-vert .popup-box label,
+.mce-popup-url,
+nav[data-dropdown] > a,
+.popup-content,
+.popup-content h2,
+.popup-content .message-body--rich,
+.popup-content time,
+ol.paging li.current a,
+dl.properties dt,
+.notifications-page .notifications .notification a .body,
+.notifications-page .notifications .notification a .created-date,
+.dim,
+.halo5-reqs .credit-balance {
+    color: #fefefe;
+}
+ol.paging li.current a {
+    border: 2px solid #fff;
+}
+.editorial-content blockquote.box-quote {
+    background-color: rgba(255, 255, 255, 0.05);
+    border: 2px solid rgba(255, 255, 255, 0.1);
+}
+.notifications-page .notifications .notification {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+.circle-chart > svg .arc-bg.bg-stroke,
+.circle-chart > svg .bg-line {
+    fill: transparent;
+    stroke: rgba(255, 255, 255, 0.85);
+}
+
+.region--post {
+    min-height: 200px;
+}
+.region--post .post-author {
+    margin-bottom: 85px;
+}
+@media (min-width: 68.75em) {
+    .region--post .post-info, .region--post .post-col {
+    	margin-left: 220px;                                        
+    }
+    .region--post .post-author {
+		width: 220px;   
+    }
+}
+.player-card h4, .player-card h5, .player-card .badges {
+	position: absolute;
+    left: 0;
+}
+.player-card h4 {
+    top: 120px;
+}
+.player-card h5 {
+    top: 145px;
+}
+.player-card .badges {
+    top: 170px;
+}
+/*
+  #tinymce {
+   overflow:auto;  
+  }
+  div.mce-edit-area {
+    height: 100%;
+  }
+  .mce-container-body {
+    resize: vertical;
+  }
+  .mce-edit-area iframe {
+    height: 100% !important;
+    max-height: 100%;
+  } */
+
+.mce-content-body,
+#tinymce,
+.mce-codeview {
+    background-color: #3e3e3e !important;
+    color: #fff;
+}
+.mce-content-body a,
+#tinymce a {
+    color: #98d0f1;
+}
+#Message_ifr, #ContentRaw_ifr {
+	height: 400px !important;   
+}
