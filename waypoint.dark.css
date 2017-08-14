@@ -115,6 +115,13 @@ ol.paging li.current a {
 .region--post .post-author {
     margin-bottom: 85px;
 }
+.region--post.highlight {
+    border: 2px solid #c5453b;   
+}
+.region--post.highlight .content {
+    border: none;
+    padding: 0;
+}
 @media (min-width: 68.75em) {
     .region--post .post-info, .region--post .post-col {
     	margin-left: 220px;                                        
